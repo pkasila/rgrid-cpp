@@ -1,0 +1,3 @@
+[submodule "thirdparty/clipp"]
+	path = thirdparty/clipp
+	url = git@github.com:muellan/clipp.git
